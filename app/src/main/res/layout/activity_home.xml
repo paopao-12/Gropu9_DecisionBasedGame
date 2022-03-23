@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Home">
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="786dp"
+        android:layout_height="452dp"
+        app:srcCompat="@drawable/street_2"
+        tools:layout_editor_absoluteX="-47dp"
+        tools:ignore="ImageContrastCheck,MissingConstraints"
+        tools:layout_editor_absoluteY="-21dp" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="236dp"
+        android:layout_height="383dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ayane_1" />
+
+    <TextView
+        android:id="@+id/Home1"
+        android:layout_width="333dp"
+        android:layout_height="69dp"
+        android:layout_marginTop="264dp"
+        android:layout_marginEnd="128dp"
+        android:fontFamily="serif-monospace"
+        android:text="@string/Home1"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/Next2"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="616dp"
+        android:layout_marginTop="272dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:contentDescription="@string/Imagebutton3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_media_play" />
+</androidx.constraintlayout.widget.ConstraintLayout>

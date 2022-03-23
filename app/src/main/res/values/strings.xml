@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Attempt1</string>
+
+    <string name="Textview">DOKI DOKI</string>
+    <string name="Textview2">Ayane:\n Hey!Justine wake uuppp!!!!</string>
+    <string name="Textview3">Ayane: \n You still remember that time when you slipped, that was hilarious.</string>
+    <string name="Home1">Ayane: \n Who even was that crazy girl? \n She hit you and even blamed you?</string>
+
+    <string name="button">New Game</string>
+    <string name="button1">Quit</string>
+    <string name="button2">Help</string>
+    <string name="button3">Load Game</string>
+    <string name="button4">First Decision</string>
+    <string name="Futaba">Futaba Route</string>
+    <string name="TOKOMI">Tokomi Route</string>
+    <string name="AYANE">Ayane Route</string>
+    <string name="Kaira">Kaira Route</string>
+
+    <string name="Imageview">DOKI DOKI</string>
+    <string name="Imagebutton">Next</string>
+    <string name="Imageview1">Classroom</string>
+    <string name="Imagebutton2">Next1</string>
+    <string name="Imagebutton3">Next2</string>
+
+
+</resources>
